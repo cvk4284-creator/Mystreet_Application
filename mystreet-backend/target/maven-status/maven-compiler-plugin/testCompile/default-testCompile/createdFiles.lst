@@ -1,0 +1,4 @@
+com\mystreet\service\AuthServiceTest.class
+com\mystreet\repository\UserRepositoryTest.class
+com\mystreet\service\OrderServiceTest.class
+com\mystreet\service\ProductServiceTest.class
